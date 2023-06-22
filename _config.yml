@@ -1,1 +1,13 @@
+# Site settings
+title: My Awesome GitHub Pages Site
+description: A brief description of your site
+theme: jekyll-theme-minimal
 
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Site author
+author:
+  name: Your Name
+  email: your@email.com
